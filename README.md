@@ -1,6 +1,6 @@
  🎮 Tic Tac Toe 
 
-A simple **GUI-based Tic Tac Toe game** built with Python's Tkinter library.  
+A simple **GUI-based Tic Tac Toe game*  
 Two players (X and O) can play on the same computer, and the game automatically detects wins or draws.
 
 ---
